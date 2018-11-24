@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/detail/main"
+
+  ],
+  "subPackages": [{
+    "root": "pages/pkA",
+    "pages": [
+      "search/main"
+    ]
+  }, {
+    "root": "pages/pkB",
+    "pages": [
+      "search/main"
+    ]
+  }, {
+    "root": "pages/pkC",
+    "pages": [
+      "search/main"
+    ]
+  }, {
+    "root": "pages/pkD",
+    "pages": [
+      "search/main"
+    ]
+  }],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "应用收集",
+    "navigationBarTextStyle": "black"
+  }
+}
